@@ -69,7 +69,7 @@ forge install
 
 - Tutorial COMING SOON
 - The OpenAI API integration requires developers to use appropriate endpoints and methods, maintain security best practices, and consider potential biases and limitations. Ethical considerations are important to avoid unintended consequences.
-- This sample app makes use of OpenAI npm package 3.3.0 version. 4.x.x version of the package is currently incompatible with Forge run time environment.
+- This sample app makes use of OpenAI npm package version 3.3.0. Version 4.x.x of the package is currently incompatible with Forge run time environment.
 - This app also includes polyfilling tty.isatty due to a limitation in the Forge runtime.
 
 ## Support
