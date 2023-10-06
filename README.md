@@ -67,7 +67,7 @@ forge install
 
 ### Notes
 
-- Tutorial COMING SOON
+- Tutorial - [Build a Confluence keyword extractor with Forge and OpenAI](https://developer.atlassian.com/platform/forge/build-confluence-keyword-extractor-with-openai/)
 - The OpenAI API integration requires developers to use appropriate endpoints and methods, maintain security best practices, and consider potential biases and limitations. Ethical considerations are important to avoid unintended consequences.
 - This sample app makes use of OpenAI npm package version 3.3.0. Version 4.x.x of the package is currently incompatible with Forge run time environment.
 - This app also includes polyfilling tty.isatty due to a limitation in the Forge runtime.
